@@ -1,9 +1,9 @@
-import React from 'react';
+import HomePage from './app/containers/HomePage/index';
 
 function App() {
   return (
     <div className="App">
-      hello world!
+      <HomePage />
     </div>
   );
 }
